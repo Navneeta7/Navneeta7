@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Navneeta Ranjan 
 - 👀 I’m interested in Data science, Data Analysis 
 - 🌱 I’m currently learning Machine Learning and SQL
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact details:
                          phone: +91 6388611200
 <!---
